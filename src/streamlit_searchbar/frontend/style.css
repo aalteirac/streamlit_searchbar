@@ -60,12 +60,11 @@
         float: none;
     }
     .topnav a, .topnav input[type=text], .topnav .search-container button {
-    float: none;
-    text-align: left;
-    margin: 0;
-    padding: 14px;
+        float: none;
+        text-align: left;
+        margin: 0;
     }
     .topnav input[type=text] {
-    border: 1px solid #ccc;  
+        width: calc(100% - 55px);
     }
   }
