@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-searchbar",
-    version="0.2.2",
+    version="0.2.3",
     author="Anthony Alteirac",
     author_email="anthony@alteirac.com",
     description="Search bar component",
